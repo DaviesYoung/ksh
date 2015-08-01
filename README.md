@@ -1,2 +1,2 @@
 # ksh
-plist of kWh
+plist of ksh
